@@ -1,0 +1,14 @@
+#navbar ul {
+    list-style-type: none;
+    overflow: hidden;
+    width: 100%;
+}
+
+#navbar li {
+    background-color: black;
+    color: white;
+    list-style-type: none;
+    float: left;
+    padding: 10px;
+    display: block;
+}
